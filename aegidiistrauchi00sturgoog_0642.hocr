@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aegidiistrauchi00sturgoog_0642.png"; bbox 0 0 1940 3496; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 30 1923 497 2088">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 30 1923 497 2088">
+     <span class='ocr_line' id='line_1_1' title="bbox 30 1923 497 2088; baseline 0.025 -33"><span class='ocrx_word' id='word_1_1' title='bbox 30 1923 189 2062; x_wconf 49' lang='grc' dir='ltr'>Αηὲἰεὴε</span> <span class='ocrx_word' id='word_1_2' title='bbox 198 1981 261 2088; x_wconf 65' lang='lat' dir='ltr'>bro</span> <span class='ocrx_word' id='word_1_3' title='bbox 284 1956 497 2086; x_wconf 62' lang='lat' dir='ltr'>Albanisn</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 30 2091 638 2168">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 30 2091 638 2168">
+     <span class='ocr_line' id='line_1_2' title="bbox 30 2091 638 2168; baseline 0.053 -37"><span class='ocrx_word' id='word_1_4' title='bbox 30 2091 638 2168; x_wconf 32' lang='grc' dir='ltr'>-ἢ-μμὺὰὴη--κ--κ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 30 2136 891 2278">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 30 2136 891 2278">
+     <span class='ocr_line' id='line_1_3' title="bbox 30 2136 891 2278; baseline 0.055 -47"><span class='ocrx_word' id='word_1_5' title='bbox 30 2157 649 2278; x_wconf 51' lang='lat' dir='ltr'>Aumentan1schefibtuss‚</span> <span class='ocrx_word' id='word_1_6' title='bbox 889 2136 891 2142; x_wconf 13' lang='lat'><strong>¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 974 3496">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 974 3496">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 974 3496; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 974 3496; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
